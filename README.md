@@ -34,8 +34,8 @@
 <br />
 <p align="center">
   
-  <img src="project/home.jpg" alt="Logo" width="100" height="auto">  
-  <img src="project/detail.jpg" alt="Logo" width="100" height="auto">  
+  <img src="project_/home.jpg" alt="Logo" width="100" height="auto">  
+  <img src="project_/detail.jpg" alt="Logo" width="100" height="auto">  
 
   <h3 align="center">RENT A HOUSE - UI</h3>
 
