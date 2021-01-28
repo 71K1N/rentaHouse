@@ -18,7 +18,7 @@ function Routes() {
             <Stack.Navigator>
                 <Stack.Screen name="home" component={Home} 
                 options={{
-                    title:'ALUGUE - by tikin',
+                    title:'Rent a house - by tikin',
                     headerTitleStyle:{
                         fontFamily:'Montserrat_700Bold'                        
                     },
