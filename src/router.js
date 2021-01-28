@@ -13,6 +13,7 @@ import { Montserrat_700Bold } from "@expo-google-fonts/montserrat";
 const Stack = createStackNavigator();
 
 function Routes() {
+    return(
         <NavigationContainer>
             <Stack.Navigator>
                 <Stack.Screen name="home" component={Home} 
@@ -48,5 +49,7 @@ function Routes() {
                     )
                 }}/>
             </Stack.Navigator>
-        </NavigationContainer>        
+        </NavigationContainer>  
+    )      
 }
+export default Routes
