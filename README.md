@@ -34,14 +34,19 @@
 <br />
 <p align="center">
   
-  <img src="project_/home.jpg" alt="Logo" width="300" height="auto">  
+  <img src="project_/home.jpg" alt="Logo" width="300" height="auto" style=" border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;">  
   <img src="project_/detail.jpg" alt="Logo" width="300" height="auto">  
 
   <h3 align="center">RENT A HOUSE - UI</h3>
   
 </p>
 <!-- ABOUT THE PROJECT -->
+
 ## Sobre
+
 <p align="center">
     <p>
     RENT A HOUSE - UI
